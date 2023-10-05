@@ -1,0 +1,16 @@
+html {
+    background-color: darkslategray;
+}
+
+body {
+    background-color: antiquewhite;
+    border: solid;
+    width: 600px;
+    margin: 25px auto;
+    padding: 25px 150px 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+   
+h2,h3,h4 {
+    font-size: medium;
+}
